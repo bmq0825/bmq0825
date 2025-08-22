@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="mailto:max.baboshko@gmail.com" target="_blank">
+    <img width="46px" alt="JavaScript logo" src="https://www.computerhope.com/jargon/j/javascript.png">
+  </a>
+</p>
 
-<!--
-**bmq0825/bmq0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+  Welcome 👋 , I'm Max 👨‍💻.
+</h2>
+ 
+<p align="center">
+  I'm a software developer currently based in Bergen, Norway.<br/>
+  I’m adept at building exceptional web and mobile apps.
+</p>
