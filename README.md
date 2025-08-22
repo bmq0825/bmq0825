@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="mailto:max.baboshko@gmail.com" target="_blank">
+  <a href="mailto:bmq0825@gmail.com" target="_blank">
     <img width="46px" alt="JavaScript logo" src="https://www.computerhope.com/jargon/j/javascript.png">
   </a>
 </p>
